@@ -236,7 +236,7 @@ COLOR_TEXTO = (250,250,250) #tiempo puntos
 COLOR_TIEMPO_FINAL = (200,20,10)
 Punto = namedtuple('Punto','x y')
 ----
-image::src/img1.jpg[]
+image::img1.jpg[]
 
 Por eso, a esta función la llamamos dentro de la función dibujar, que está dentro del archivo extras, para cambiar los colores de la sílaba.  
 
@@ -260,4 +260,4 @@ def dibujar(screen, candidata, listaNombres, posiciones, puntos, segundos):
     screen.blit(ren2, (680, 10))
     screen.blit(ren3, (10, 10))
 ----
-image::src/img2.jpg[]
+image::img2.jpg[]
