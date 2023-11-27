@@ -1,5 +1,6 @@
-# Introducción a la Programación
-## Trabajo práctico - Primer Semestre 2021
+= Introducción a la Programación
+
+Trabajo práctico - Primer Semestre 2021
 
 Integrantes
 Agustina Mendez, 39707636/2014, <agustina.996@hotmail.com> 
